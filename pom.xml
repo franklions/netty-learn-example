@@ -24,6 +24,7 @@
     </profiles>
     <modules>
         <module>netty-telnet-server-example</module>
+        <module>netty-server-example-echo</module>
     </modules>
 
 </project>
